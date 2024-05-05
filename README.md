@@ -1,1 +1,1 @@
-# factorio-mod-template
+# factorio-mod-template - template for my mods

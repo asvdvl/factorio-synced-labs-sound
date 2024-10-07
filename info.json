@@ -1,12 +1,12 @@
 {
-    "title": "factorio-mod-template",
-    "name": "factorio-mod-template",
+    "title": "factorio synced labs sound",
+    "name": "factorio-synced-labs-sound",
     "author": "asvdev(in game - Dial-up)",
     "factorio_version": "1.1",
-    "version": "0.0.0",
-    "dependencies": ["base >= 1.1.0"],
-    "description": "factorio-mod-template - template for my mods",
-    "homepage": "https://github.com/asvdvl/factorio-mod-template",
+    "version": "0.1.0",
+    "dependencies": ["base >= 1.1.0", "factorio-sync-sound-manager"],
+    "description": "makes all lab sound in sync",
+    "homepage": "https://github.com/asvdvl/factorio-synced-labs-sound",
     "package":{
         "ignore":[
         ]

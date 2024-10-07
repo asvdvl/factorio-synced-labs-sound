@@ -4,7 +4,21 @@
     "author": "asvdev(in game - Dial-up)",
     "factorio_version": "1.1",
     "version": "0.1.0",
-    "dependencies": ["base >= 1.1.0", "factorio-sync-sound-manager"],
+    "dependencies": [
+        "base >= 1.1.0",
+        "factorio-sync-sound-manager",
+        "(?)Gopnik-Lab",
+        "(?)GalileoLabs",
+        "(?)LabDansen",
+        "(?)LabDansen_Updated",
+        "(?)LouderLabDansen",
+        "(?)LabNyan",
+        "(?)PropagandaLabs",
+        "(?)Labcore",
+        "(?)Spacelabcore",
+        "(?)dansen",
+        "(?)universal-caramelldansen"
+    ],
     "description": "makes all lab sound in sync",
     "homepage": "https://github.com/asvdvl/factorio-synced-labs-sound",
     "package":{

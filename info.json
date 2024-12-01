@@ -23,6 +23,7 @@
     "homepage": "https://github.com/asvdvl/factorio-synced-labs-sound",
     "package":{
         "ignore":[
+            "*.mp4"
         ]
     }
 }

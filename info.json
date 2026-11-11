@@ -2,8 +2,8 @@
     "title": "factorio synced labs sound",
     "name": "factorio-synced-labs-sound",
     "author": "asvdev(in game - Dial-up)",
-    "factorio_version": "2.0",
-    "version": "2.0.1",
+    "factorio_version": "2.1",
+    "version": "2.1.0",
     "dependencies": [
         "base >= 2.0.0",
         "factorio-sync-sound-manager >= 1.0.1",

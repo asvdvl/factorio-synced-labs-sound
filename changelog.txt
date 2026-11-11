@@ -1,6 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2026-11-11
+  Changes:
+    - ported to 2.1
+    - handle single sounds, sound variations and sound arrays
+  Bugfixes:
+    - requires factorio-sync-sound-manager 1.0.2 (emitters were silent in 1.0.1)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.1
-Date: ????
+Date: 2025-04-11
   Changes:
     - Adapted to the new structure of storing variables in the sound definition
 ---------------------------------------------------------------------------------------------------
